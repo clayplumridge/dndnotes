@@ -4,9 +4,22 @@ Altus is a small city, home to the [[#Academy Arcane]], and is a minor port on t
 ## Culture
 Due to the central influence of the [[#Academy Arcane]] on the economics and history of Altus, the city views [[Arcane Magic]] very favorably and looks down on [[Divine Magic]].
 
+### Garden Parties!
+Wealthy Arcane-gifted women make a hobby of curating plants using magic. Their plants are universally for show, and exhibit incredible sensory features including smell, taste, touch, and sight. They never curate plants that produce food, considering those species to be "base" and "inelegant".  These plants are frequently displayed
+
+Druidic magic, by contrast, could perform every one of these "feats" without much effort.
+
 ## Economy
+Altus imports nearly everything it needs to function, owing to the incredibly wealthy residents and significant grants from the nations of the world. In exchange for these grants, they produce War Mages for the rest of the world (see [[#History]]).
 
 ## History
+Altus is the child of the excessive hubris of its incredibly wealthy founder, $FOUNDER. He paid an exorbitant amount of money to several archmages to found the [[#Academy Arcane]] in the Altus Valley without enough consideration for basic infrastructure, like food. As a result, the Academy needs to import almost all food that it needs to survive.
+
+The cost to teleport food, in addition to the limited throughput of teleportation, meant that docks needed to be constructed. The docks necessitated the construction of a temple to Iono for the sailors, and slowly but surely a city sprung up around the Academy. However, the dwindling fortune of $FOUNDER became a problem.
+
+Altus rapidly needed a way to fund itself, and began seeking grants from the nations of the world. Citing the high departure rate of the Academy itself, the nations of the world asked the Academy to begin training War Mages from the "less-capable" students to give them a career path. The Academy did, and the operations of the city have been funded almost exclusively by these "donations" ever since. The occupants of the city, however, are independently wealthy.
+
+The founding of Altus displaced a moderately-large commune of "primitive" Druids, who now live in secret in the surrounding [[Stormridge Mountains]].
 
 ## Major Features
 
