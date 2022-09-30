@@ -1,0 +1,3 @@
+Investiture is the mechanism by which [[The Twelve]] and the [[Chaos Gods]] can imbue the mortal races with power. Doing so involves breaking off part of their own power and grafting it to the Soul of another creature, or to a place or object. Anything can theoretically be Invested, but the most common manifestations are Clerics and Paladins.
+
+[[Sendovani]] created the source of all Arcane Magic long before she was killed by [[Tzeentch]] by investing a significant portion of her power to craft [[Leylines]] that encircle the world in the Astral Plane. By killing Sendovani, Tzeentch claimed her domain of Arcane Magic, and gained a degree of dominion over the Leylines.
