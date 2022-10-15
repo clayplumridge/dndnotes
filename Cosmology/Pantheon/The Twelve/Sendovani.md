@@ -2,8 +2,8 @@
 **Titles** - 
 **Symbols** -
 **The Vibe** -
-**Domains** - The Arcane
+**Domains** - The Arcane, Luck
 
-Goddess of Secrets, Knowledge, and Magic
+Goddess of Arcana and Luck.
 
 Sendovani created the [[Leylines]] and was killed by [[Tzeentch]] during the [[First Age of Strife]].
