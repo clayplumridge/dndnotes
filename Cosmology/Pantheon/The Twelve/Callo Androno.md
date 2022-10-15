@@ -2,6 +2,7 @@
 **Titles** - Eyes of the Crossroads
 **Symbols** - A blessed writing quill
 **The Vibe** - BDG
+**Domains** - Travel, Languages, Lore
 
 Callo Androno is the god of travel, languages, and lore. He is often worshipped by bards, artists, scholars, and players.
 

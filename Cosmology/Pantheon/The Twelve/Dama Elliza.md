@@ -2,6 +2,7 @@
 **Titles** - Mother of Rains and Reaping
 **Symbols** - Scythe
 **The Vibe** - Black mom's house
+**Domains** - Agriculture
 
 Dama Elliza is the god of agriculture, worshipped by farmers.
 

@@ -2,6 +2,7 @@
 **Titles** - Lady of the Red Madness
 **Symbols** -
 **The Vibe** -
+**Domains** - Love, Sex
 
 Preva is the god of courtship and love, whose priests are often sought out by lovers when their path forward is unclear.
 

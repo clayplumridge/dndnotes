@@ -2,6 +2,7 @@
 **Titles** - Lord of the Overlooked, Father of Mercies, The Beggar God (derisive)
 **Symbols** -
 **The Vibe** -
+**Domains** - Charity, Poverty
 
 Perelandro is the god of mercy, protector of the week and helpless. He is the god of orphans and beggars, and is often the butt of jokes among those less pious.
 

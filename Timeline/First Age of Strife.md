@@ -1,0 +1,2 @@
+# First Age of Strife
+Each of the Ages of Strife represented a catastrophic collapse of mortal civilization and a fundamental rebuilding of the world. Beyond the knowledge lost during these cataclysmic events, [[The Twelve]] actively scrub the existence of these Ages from recorded history and suppress oral histories to the best of their ability. They also do this to hide the existence of the [[Chaos Gods]] from the Mortal Races. 

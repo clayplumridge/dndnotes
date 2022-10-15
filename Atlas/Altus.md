@@ -1,8 +1,11 @@
+## GM Summary
+Altus is a capitalist hellscape born of the hubris of a billionaire that appropriates the traditions of the people it displaced during its creation without context and the simultaneously supports the military-industrial complex of every warmongering nation on the planet. It's the gilded age writ to the absurd.
+
 ## Overview and Geography
 Altus is a small city, home to the [[#Academy Arcane]], and is a minor port on the western coast of  $TODO. Altus sits on the only flat piece of land for miles up and down the coast, bordered on all sides by the [[Stormridge Mountains]] and only accessible by sea or teleportation.
 
 ## Culture
-Due to the central influence of the [[#Academy Arcane]] on the economics and history of Altus, the city views [[Arcane Magic]] very favorably and looks down on [[Divine Magic]].
+Due to the central influence of the [[#Academy Arcane]] on the economics and history of Altus, the city views [[Arcane Magic]] very favorably and looks down on [[Divine Magic]] and [[Druidic Magic]].
 
 ### Garden Parties!
 Wealthy Arcane-gifted women make a hobby of curating plants using magic. Their plants are universally for show, and exhibit incredible sensory features including smell, taste, touch, and sight. They never curate plants that produce food, considering those species to be "base" and "inelegant".  These plants are frequently displayed
@@ -22,6 +25,10 @@ Altus rapidly needed a way to fund itself, and began seeking grants from the nat
 The founding of Altus displaced a moderately-large commune of "primitive" Druids, who now live in secret in the surrounding [[Stormridge Mountains]].
 
 ## Major Features
-
 ### Academy Arcane
+The Academy Arcane is the centrepiece of the city.
+
+### Dockside
+
+#### Temple of Iono
 

@@ -2,6 +2,7 @@
 **Titles** - The Lady of the Long Silence, The Lady Most Kind
 **Symbols** -
 **The Vibe** - Black woman that nobody is listening to and they really should.
+**Domains** - Death
 
 Aza Guilla is the goddess of death. She embraces, cares for, and weighs the souls of the dead. Her followers court death, seeking to understand it, and see death as a gift instead of a curse. She is among the most honored and respected of The Twelve
 

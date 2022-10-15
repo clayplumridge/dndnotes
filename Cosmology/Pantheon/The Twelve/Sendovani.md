@@ -2,6 +2,7 @@
 **Titles** - 
 **Symbols** -
 **The Vibe** -
+**Domains** - The Arcane
 
 Goddess of Secrets, Knowledge, and Magic
 

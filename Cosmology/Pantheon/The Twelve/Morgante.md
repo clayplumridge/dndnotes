@@ -2,6 +2,7 @@
 **Titles** - Lord of Noose and Trowel, City Father
 **Symbols** - A staff of iron
 **The Vibe** - Lawful Neutral but like, the bad way
+**Domains** - Law, Vengeance
 
 Morgante is the god of order, hierarchies, and harsh consequences. Morgante is often worshipped by executioners, constables, and judges.
 

@@ -2,6 +2,7 @@
 **Titles** - Lord of Coin and Commerce, Wealth-Father, Filler of Vaults
 **Symbols** - 
 **The Vibe** - 
+**Domains** - Commerce
 
 Gandolo is the god of business and commerce, and is thus the gods to which merchants make their primary oath.
 
