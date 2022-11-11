@@ -23,5 +23,5 @@ The Twelve are aware of the existence of the [[Chaos Gods]] and undertake measur
 - [[Venaportha]]
 
 ### Former Members
-- [[Sendovani]] - Deceased, killed by [[Tzeentch]]
+- [[Sendovani]] - Deceased, killed by [[Theofania]]
 - [[Nara]] - Deceased, killed by [[Nurgle]]

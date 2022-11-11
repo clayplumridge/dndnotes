@@ -1,4 +1,3 @@
-## Azri
 **Titles** - 
 **Symbols** -
 **The Vibe** - The Lethani

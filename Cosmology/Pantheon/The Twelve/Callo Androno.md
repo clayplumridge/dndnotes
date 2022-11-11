@@ -1,5 +1,5 @@
 ## Callo Androno
-**Titles** - Eyes of the Crossroads
+**Titles** - Eyes of the Crossroads, The Patchwork Vagrant (derisive)
 **Symbols** - A blessed writing quill
 **The Vibe** - BDG
 **Domains** - Travel, Languages, Lore, Luck

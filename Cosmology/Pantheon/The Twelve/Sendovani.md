@@ -6,4 +6,4 @@
 
 Goddess of Arcana and Luck.
 
-Sendovani created the [[Leylines]] and was killed by [[Tzeentch]] during the [[First Age of Strife]].
+Sendovani created the [[Leylines]] and was killed by [[Theofania]] during the [[First Age of Strife]].

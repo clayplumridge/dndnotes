@@ -1,0 +1,1 @@
+$TIME years ago, Shallash attempted to ascend to join [[The Twelve]] as the Goddess of Beauty by instrumenting a worldwide artistic revolution
