@@ -1,0 +1,3 @@
+---
+alias: Chaos God
+---

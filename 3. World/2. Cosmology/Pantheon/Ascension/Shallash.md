@@ -1,0 +1,5 @@
+$TIME years ago, Shallash attempted to ascend to join [[The Twelve]] as the Goddess of Beauty by instrumenting a worldwide artistic revolution and centralizing thought on what it means for something to be beautiful. During the process of grafting the Domain of Beauty onto her soul, human thought shifted, and the Domain of Beauty shattered, taking large portions of her soul with it. Her attempt at Ascension has been scrubbed from history by [[The Twelve]], but they left her contributions to art and philosophy largely intact.
+
+Shallash is now [[Ageless]] as a result of her failed attempt at Ascension, but has several unfortunate complications. First, she has an overwhelming compulsion to destroy artwork of herself; as a notable historical figure, artist, and art philosopher, there's plenty to go around. She's managed to rid herself of the compulsion to seek out art of herself and destroy it; now, she'll only destroy it if she sees it directly. 
+
+This shattering of the Domain of Beauty is why beauty can be found in all things, as the shards of the Domain took root in everything that ever was.

@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "4c5034f244d0c27c",
+    "type": "split",
+    "children": [
+      {
+        "id": "516d60febffb8674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d68d3b4b6b48f95f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/1. World/People/Template - Deity.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f94a6ed954c212a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62305198b968886d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8096a6b465b2f166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "775ce24ed8ef5a82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07bd1f0ba64530d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TODO",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16c359c32415aec5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aadc435bbf1a097c",
+    "type": "split",
+    "children": [
+      {
+        "id": "450f8fe62ec57555",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1f43ad149589ecb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "692c625c48081bfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b15be4b7c93462a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f66696518e35d385",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "775ce24ed8ef5a82",
+  "lastOpenFiles": [
+    "3. World/2. Cosmology/Pantheon/Chaos Gods/Nurgle.md",
+    "3. World/2. Cosmology/Pantheon/Chaos Gods/Khorne.md",
+    "3. World/2. Cosmology/Pantheon/Chaos Gods/Tzeentch.md",
+    "3. World/2. Cosmology/Pantheon/Chaos Gods/Chaos Gods.md",
+    "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md",
+    "Chaos God.md",
+    "z_Templates/1. World/People/Template - Deity.md",
+    "3. World/2. Cosmology/Pantheon/Ascension/Shallash.md",
+    "3. World/2. Cosmology/Pantheon/The Twelve/The Twelve.md",
+    "3. World/z_Unsorted/Spirit.md",
+    "3. World/z_Unsorted/Domain.md",
+    "3. World/8. Magic/Leylines.md",
+    "3. World/8. Magic/Druidic Magic.md",
+    "3. World/8. Magic/Divine Magic.md",
+    "3. World/8. Magic/Arcane Magic.md",
+    "3. World/z_Unsorted/Sports.md",
+    "3. World/z_Unsorted/Lay Priest.md",
+    "3. World/z_Unsorted/Grey Knights.md",
+    "3. World/z_Unsorted/Ageless.md",
+    "3. World/1. Atlas/The Underdark/The Crystal City/The Crystal City.md",
+    "3. World/1. Atlas/The Underdark/The Crystal City.md",
+    "3. World/1. Atlas/The Underdark/The Crystal City",
+    "3. World/1. Atlas/Emeria/Emeria.md",
+    "3. World/1. Atlas/Coramar/Coramar.md",
+    "3. World/1. Atlas/Coramar/The Slave Legions/The Slave Legions.md",
+    "3. World/1. Atlas/Coramar/The Slave Legions/The Fourth Legion.md",
+    "Untitled.md",
+    "3. World/1. Atlas/Coramar/The Slave Legions",
+    "3. World/1. Atlas/Coramar"
+  ]
+}
