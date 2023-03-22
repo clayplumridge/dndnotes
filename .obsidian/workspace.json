@@ -32,9 +32,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aea928c61538ffcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Scratch Notes/gitkeep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "845ffc8749d3d37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. The Party/gitkeep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b531fa892897c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. World/1. Atlas/The Underdark/The Crystal City/The Crystal City.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8855869fb44f238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. World/1. Atlas/The Underdark/The Crystal City/gitkeep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d789cda5cdd499e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. DM Screen/gitkeep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -100,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md",
+                "file": "0. DM Screen/gitkeep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md",
+                "file": "0. DM Screen/gitkeep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md"
+                "file": "0. DM Screen/gitkeep.md"
               }
             }
           }
@@ -162,13 +222,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "775ce24ed8ef5a82",
+  "active": "8d789cda5cdd499e",
   "lastOpenFiles": [
+    "3. World/1. Atlas/The Underdark/The Crystal City/gitkeep.md",
+    "0. DM Screen/gitkeep.md",
+    "3. World/1. Atlas/The Underdark/The Crystal City/The Crystal City.md",
+    "3. World/1. Atlas/Emeria/gitkeep.md",
+    "2. The Party/gitkeep.md",
+    "1. Scratch Notes/gitkeep.md",
+    "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md",
     "3. World/2. Cosmology/Pantheon/Chaos Gods/Nurgle.md",
     "3. World/2. Cosmology/Pantheon/Chaos Gods/Khorne.md",
     "3. World/2. Cosmology/Pantheon/Chaos Gods/Tzeentch.md",
     "3. World/2. Cosmology/Pantheon/Chaos Gods/Chaos Gods.md",
-    "3. World/2. Cosmology/Pantheon/Ascension/Ascension.md",
     "Chaos God.md",
     "z_Templates/1. World/People/Template - Deity.md",
     "3. World/2. Cosmology/Pantheon/Ascension/Shallash.md",
@@ -183,14 +249,8 @@
     "3. World/z_Unsorted/Lay Priest.md",
     "3. World/z_Unsorted/Grey Knights.md",
     "3. World/z_Unsorted/Ageless.md",
-    "3. World/1. Atlas/The Underdark/The Crystal City/The Crystal City.md",
     "3. World/1. Atlas/The Underdark/The Crystal City.md",
     "3. World/1. Atlas/The Underdark/The Crystal City",
-    "3. World/1. Atlas/Emeria/Emeria.md",
-    "3. World/1. Atlas/Coramar/Coramar.md",
-    "3. World/1. Atlas/Coramar/The Slave Legions/The Slave Legions.md",
-    "3. World/1. Atlas/Coramar/The Slave Legions/The Fourth Legion.md",
-    "Untitled.md",
     "3. World/1. Atlas/Coramar/The Slave Legions",
     "3. World/1. Atlas/Coramar"
   ]
